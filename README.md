@@ -1,8 +1,21 @@
 <h1 align="center">
 Hello there 👋 I am <a href="https://github.com/njoroge-jane/My-Portfolio">Janey</a>!
 </h1>
+<a href="https://www.linkedin.com/in/jane-w-njoroge/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Janey%20-blue?logo=linkedin&logoColor=blue&color=white" />
+</a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_njoroge_jane?style=social) | ![GitHub followers](https://img.shields.io/github/followers/njoroge-jane?style=social) 
+<a href="mailto:jwnjoroge4@gmail.com.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Janey%20-white?logo=gmail&logoColor=&color=white" />
+</a>
+
+<a href="https://twitter.com/_njoroge_jane" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-Janey%20-white?logo=twitter&/follow/Janey?style=social" />
+</a>
+
+
+
+ ![GitHub followers](https://img.shields.io/github/followers/njoroge-jane?style=social) 
 
 <!-- | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605) -->
 
