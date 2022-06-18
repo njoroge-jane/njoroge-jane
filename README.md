@@ -5,7 +5,7 @@ Hello there 👋 I am <a href="https://github.com/njoroge-jane/My-Portfolio">Jan
   <img src="https://img.shields.io/badge/LinkedIn-Janey%20-blue?logo=linkedin&logoColor=blue&color=white" />
 </a>
 
-<a href="jwnjoroge4@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:jwnjoroge4@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Janey%20-white?logo=gmail&logoColor=&color=white" />
 </a>
 
